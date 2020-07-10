@@ -1,4 +1,4 @@
-# Teste para desenvolvedor front-end
+# Front-end Challenge
 Show us what you can do and how clean your code is! Write a JavaScript SPA using AngularJS that will allow a user to create and display units and customers from a fake REST API (link to repository).
 
 ## Requirements
