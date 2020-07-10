@@ -14,6 +14,7 @@ Show us what you can do and how clean your code is! Write a JavaScript SPA using
 - Make use of AngularJS directives and services.
 - Use Twitter Bootstrap for design the user interface.
 - Paginate units and customers lists.
+- Unit tests.
 
 <br>
 
