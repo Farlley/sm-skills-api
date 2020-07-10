@@ -1,0 +1,61 @@
+{
+  "units": [
+    {
+      "id": 1361805,
+      "general": {
+        "name": "Consultório Exemplo",
+        "cnpj": "48567709000108"
+      },
+      "address": {
+        "street": "Rua Camila Alvares de Azevedo, 481",
+        "city": "Embu das Artes",
+        "state": "SP",
+        "zip": "06804-150"
+      },
+      "contact": {
+        "email": "consultorio.exemplo@email.com.br",
+        "phones": [
+          {
+            "type": "mobile",
+            "value": "11989885655"
+          },
+          {
+            "type": "fax",
+            "value": "1137025440"
+          }
+        ]
+      }
+    }
+  ],
+  "customers": [
+    {
+      "id": 1361806,
+      "general": {
+        "name": "Gabriela Nicole Silva",
+        "cpf": "40270048928",
+        "birth_date": "1976-04-03",
+        "gender": "m"
+      },
+      "address": {
+        "street": "Rua Doutor Geraldo Leite, 751",
+        "city": "Feira de Santana",
+        "state": "BA",
+        "zip": "44088-018"
+      },
+      "contact": {
+        "email": "leandrodiegolucasaraujo@ohms.com.br",
+        "phones": [
+          {
+            "type": "work",
+            "value": "7535253201"
+          },
+          {
+            "type": "custom",
+            "value": "7529955312",
+            "custom": "WhatsApp"
+          }
+        ]
+      }
+    }
+  ]
+}
