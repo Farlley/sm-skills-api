@@ -85,7 +85,9 @@ Object
 ```
 GET     /customers      (plural)
 GET     /customers/:id  (singular)
+PUT     /customers/:id
 POST    /customers
+DELETE  /customers/:id
 ```
 
 Object
