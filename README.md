@@ -1,5 +1,5 @@
 # Front-end Challenge
-Show us what you can do and how clean your code is! Write a JavaScript SPA using AngularJS that will allow a user to create and display units and customers from a fake REST API (link to repository).
+Show us what you can do and how clean your code is! Write a JavaScript SPA using AngularJS that will allow a user to create and display units and customers from a fake REST API.
 
 ## Requirements
 
@@ -15,6 +15,10 @@ Show us what you can do and how clean your code is! Write a JavaScript SPA using
 - Use Twitter Bootstrap for design the user interface.
 - Paginate units and customers lists.
 
+<br>
+
+# API
+
 ## Dependencies
 - Node
 - NPM
@@ -27,10 +31,8 @@ Show us what you can do and how clean your code is! Write a JavaScript SPA using
 
 - Run `npm run serve`
 
-<br>
 
 ---
-<br>
 
 ### API Default URL
 
