@@ -5,7 +5,7 @@ Show us what you can do and how clean your code is! Write a JavaScript SPA using
 
 - Use best practices in writing JavaScript, SCSS, and HTML.
 - Write clearly and use proper MVC structure to write the application.
-- Create a directive for the contact phones, allowing to add/delete more than one.
+- Allow the user to add/delete more than one contact phone (see `contact.phones` array).
 - Use UI-Router for your app routing.
 - Use Gulp as your task runner.
 - Use NPM as your package manager.
